@@ -4,6 +4,8 @@
 > 
 > 版本 V2.0 | 2026-10-12
 
+**在线访问**：https://nancity11521-ai.github.io/communication-sharing/
+
 ## 文档简介
 
 本文档定义了 Ulefone / RugOne 品牌的跨设备通信共享能力，覆盖两个核心场景：
@@ -21,7 +23,8 @@
 
 | 文件 | 说明 |
 |---|---|
-| `outputs/OPPO-iPhone-通信共享-PRD.html` | 完整 PRD 文档（单文件 HTML，可离线打开） |
+| `index.html` | 在线访问入口（已剥离平台注入标记的干净版本） |
+| `outputs/OPPO-iPhone-通信共享-PRD.html` | 原始 PRD 文件（含云端页面锚定标记） |
 
 ## 技术栈
 
@@ -31,5 +34,6 @@
 
 ## 链接
 
+- **在线网页**：https://nancity11521-ai.github.io/communication-sharing/
 - **云端文档**：[WorkBuddy 资料库](https://www.workbuddy.ai/space/d/odbS9mp4fNB0zvXyLikp7W)
 - **GitHub 仓库**：[communication-sharing](https://github.com/nancity11521-ai/communication-sharing)
